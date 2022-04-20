@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "hooks_unable",
+  "appid": "testAppId",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
